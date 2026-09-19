@@ -1,0 +1,229 @@
+complaint_id,reported_at,area,description,reported_category,severity,status
+CMP-0001,2026-09-11,Green Park,damaged road surface on Green Park main road near community hall,Roads,5,Open
+CMP-0002,2026-09-05,Green Park,streetlight not working near Green Park park near community hall,Streetlights,1,In progress
+CMP-0003,2026-09-02,Station Road,exposed wire near Station Road market near playground,Electrical,1,Resolved
+CMP-0004,2026-09-10,East Colony,no water supply since morning in East Colony near public park gate,Water,3,Open
+CMP-0005,2026-09-03,Green Park,dark road because lamp is broken in Green Park near clinic,Streetlights,4,In progress
+CMP-0006,2026-08-27,Green Park,dark road because lamp is broken in Green Park near library,Streetlights,1,Open
+CMP-0007,2026-09-13,Old Town,water leakage outside house 219 in Old Town near community hall,Water,4,In progress
+CMP-0008,2026-09-02,Lake View,overflowing community bin in Lake View near community hall,Waste,1,In progress
+CMP-0009,2026-08-26,North Ward,water leakage outside house 42 in North Ward near temple road,Water,5,Open
+CMP-0010,2026-08-30,Green Park,garbage has not been collected from Green Park near bus stop,Waste,1,Open
+CMP-0011,2026-08-19,East Colony,sparks from electric pole in East Colony near library,Electrical,4,Open
+CMP-0012,2026-08-23,Lake View,no water supply since morning in Lake View near playground,Water,4,Open
+CMP-0013,2026-09-12,North Ward,no water supply since morning in North Ward near bus stop,Water,2,Resolved
+CMP-0014,2026-08-21,North Ward,streetlight not working near North Ward park near metro exit,Streetlights,5,Resolved
+CMP-0015,2026-09-02,East Colony,large pothole near East Colony crossing near water tower,Roads,3,Open
+CMP-0016,2026-09-03,Lake View,dark road because lamp is broken in Lake View near bank corner,Streetlights,2,Open
+CMP-0017,2026-08-18,East Colony,damaged road surface on East Colony main road near library,Roads,2,Open
+CMP-0018,2026-08-19,North Ward,water leakage outside house 154 in North Ward near clinic,Other,3,Resolved
+CMP-0019,2026-09-14,Lake View,garbage has not been collected from Lake View near playground,Waste,4,Resolved
+CMP-0020,2026-08-15,Lake View,exposed wire near Lake View market near temple road,Electrical,5,Resolved
+CMP-0021,2026-08-25,Lake View,streetlight not working near Lake View park near public park gate,Streetlights,3,Open
+CMP-0022,2026-09-15,Station Road,exposed wire near Station Road market near community hall,Electrical,5,In progress
+CMP-0023,2026-09-16,Lake View,exposed wire near Lake View market near bank corner,Electrical,1,Resolved
+CMP-0024,2026-08-19,North Ward,large pothole near North Ward crossing near library,Roads,2,In progress
+CMP-0025,2026-08-24,North Ward,sparks from electric pole in North Ward near temple road,Electrical,1,In progress
+CMP-0026,2026-09-16,Station Road,overflowing community bin in Station Road near bank corner,Waste,1,Open
+CMP-0027,2026-08-16,Green Park,garbage has not been collected from Green Park near community hall,Waste,4,Open
+CMP-0028,2026-09-13,Lake View,streetlight not working near Lake View park near water tower,Other,5,Resolved
+CMP-0029,2026-08-20,Lake View,large pothole near Lake View crossing near temple road,Roads,4,Resolved
+CMP-0030,2026-08-21,Station Road,water leakage outside house 100 in Station Road near public park gate,Water,5,In progress
+CMP-0031,2026-09-16,Lake View,streetlight not working near Lake View park near community hall,Streetlights,5,Open
+CMP-0032,2026-08-18,Green Park,garbage has not been collected from Green Park near temple road,Waste,5,Open
+CMP-0033,2026-09-15,Green Park,exposed wire near Green Park market near playground,Electrical,2,Open
+CMP-0034,2026-08-24,Lake View,exposed wire near Lake View market near primary school,Electrical,5,In progress
+CMP-0035,2026-08-25,Lake View,overflowing community bin in Lake View near public park gate,Waste,3,Open
+CMP-0036,2026-09-13,Green Park,damaged road surface on Green Park main road near playground,Other,2,Open
+CMP-0037,2026-08-27,Old Town,water leakage outside house 226 in Old Town near community hall,Water,4,Resolved
+CMP-0038,2026-08-31,North Ward,garbage has not been collected from North Ward near water tower,Waste,1,Resolved
+CMP-0039,2026-08-15,Old Town,water leakage outside house 228 in Old Town near primary school,Water,3,In progress
+CMP-0040,2026-09-03,Lake View,overflowing community bin in Lake View near temple road,Waste,1,Open
+CMP-0041,2026-09-11,Old Town,streetlight not working near Old Town park near clinic,Streetlights,3,Open
+CMP-0042,2026-09-12,North Ward,dark road because lamp is broken in North Ward near bus stop,Other,2,In progress
+CMP-0043,2026-09-17,North Ward,garbage has not been collected from North Ward near market entrance,Waste,1,Resolved
+CMP-0044,2026-08-28,East Colony,water leakage outside house 171 in East Colony near primary school,Water,4,Resolved
+CMP-0045,2026-08-24,Lake View,water leakage outside house 250 in Lake View near market entrance,Other,3,Resolved
+CMP-0046,2026-09-13,East Colony,streetlight not working near East Colony park near market entrance,Streetlights,1,Resolved
+CMP-0047,2026-09-05,Lake View,no water supply since morning in Lake View near public park gate,Water,2,Open
+CMP-0048,2026-08-18,Green Park,overflowing community bin in Green Park near library,Waste,5,Open
+CMP-0049,2026-09-03,Green Park,damaged road surface on Green Park main road near playground,Other,5,Open
+CMP-0050,2026-09-07,Station Road,garbage has not been collected from Station Road near playground,Waste,4,Open
+CMP-0051,2026-09-15,East Colony,exposed wire near East Colony market near metro exit,Electrical,3,In progress
+CMP-0052,2026-08-24,East Colony,damaged road surface on East Colony main road near public park gate,Roads,3,In progress
+CMP-0053,2026-09-08,Station Road,no water supply since morning in Station Road near bank corner,Water,3,Open
+CMP-0054,2026-08-30,Old Town,damaged road surface on Old Town main road near metro exit,Roads,4,In progress
+CMP-0055,2026-09-01,Station Road,exposed wire near Station Road market near primary school,Electrical,5,Open
+CMP-0056,2026-09-10,East Colony,no water supply since morning in East Colony near community hall,Other,2,Resolved
+CMP-0057,2026-09-07,Green Park,sparks from electric pole in Green Park near library,Electrical,4,Open
+CMP-0058,2026-08-23,Lake View,water leakage outside house 229 in Lake View near primary school,Water,5,Open
+CMP-0059,2026-08-21,Lake View,exposed wire near Lake View market near market entrance,Electrical,5,In progress
+CMP-0060,2026-08-22,North Ward,dark road because lamp is broken in North Ward near water tower,Streetlights,4,Open
+CMP-0061,2026-08-19,East Colony,no water supply since morning in East Colony near water tower,Water,3,Open
+CMP-0062,2026-08-16,Lake View,overflowing community bin in Lake View near clinic,Waste,2,Open
+CMP-0063,2026-08-24,East Colony,water leakage outside house 17 in East Colony near metro exit,Water,4,Open
+CMP-0064,2026-09-18,Station Road,no water supply since morning in Station Road near playground,Water,5,Open
+CMP-0065,2026-08-24,Old Town,damaged road surface on Old Town main road near metro exit,Roads,5,Resolved
+CMP-0066,2026-08-19,Station Road,water leakage outside house 70 in Station Road near metro exit,Other,3,In progress
+CMP-0067,2026-09-11,East Colony,streetlight not working near East Colony park near temple road,Streetlights,5,Open
+CMP-0068,2026-08-23,North Ward,streetlight not working near North Ward park near library,Streetlights,4,Open
+CMP-0069,2026-08-30,Station Road,overflowing community bin in Station Road near temple road,Waste,4,Open
+CMP-0070,2026-08-16,Old Town,streetlight not working near Old Town park near bus stop,Other,3,Open
+CMP-0071,2026-09-04,East Colony,large pothole near East Colony crossing near bus stop,Roads,1,In progress
+CMP-0072,2026-09-06,Lake View,no water supply since morning in Lake View near primary school,Water,3,Resolved
+CMP-0073,2026-08-31,North Ward,water leakage outside house 200 in North Ward near market entrance,Water,1,Resolved
+CMP-0074,2026-09-07,East Colony,sparks from electric pole in East Colony near bank corner,Other,2,Open
+CMP-0075,2026-09-17,East Colony,garbage has not been collected from East Colony near playground,Waste,4,In progress
+CMP-0076,2026-08-19,North Ward,damaged road surface on North Ward main road near metro exit,Roads,3,In progress
+CMP-0077,2026-08-17,East Colony,streetlight not working near East Colony park near market entrance,Streetlights,3,In progress
+CMP-0078,2026-09-02,Station Road,sparks from electric pole in Station Road near bank corner,Electrical,2,Resolved
+CMP-0079,2026-08-26,Old Town,damaged road surface on Old Town main road near temple road,Roads,4,Resolved
+CMP-0080,2026-08-29,Station Road,water leakage outside house 91 in Station Road near public park gate,Water,5,In progress
+CMP-0081,2026-09-14,North Ward,garbage has not been collected from North Ward near community hall,Waste,4,Open
+CMP-0082,2026-08-19,East Colony,no water supply since morning in East Colony near bank corner,Water,1,Open
+CMP-0083,2026-08-27,Station Road,water leakage outside house 79 in Station Road near library,Water,5,Open
+CMP-0084,2026-09-02,Old Town,sparks from electric pole in Old Town near temple road,Electrical,2,Open
+CMP-0085,2026-09-08,Old Town,water leakage outside house 191 in Old Town near water tower,Water,4,Open
+CMP-0086,2026-09-01,North Ward,sparks from electric pole in North Ward near community hall,Electrical,2,Open
+CMP-0087,2026-08-15,Lake View,sparks from electric pole in Lake View near bus stop,Electrical,2,In progress
+CMP-0088,2026-08-20,Green Park,streetlight not working near Green Park park near public park gate,Streetlights,3,Open
+CMP-0089,2026-08-25,Old Town,damaged road surface on Old Town main road near primary school,Roads,5,In progress
+CMP-0090,2026-08-31,Lake View,large pothole near Lake View crossing near playground,Roads,2,Open
+CMP-0091,2026-08-26,North Ward,streetlight not working near North Ward park near water tower,Streetlights,4,Open
+CMP-0092,2026-09-16,Station Road,sparks from electric pole in Station Road near playground,Electrical,1,Resolved
+CMP-0093,2026-09-14,East Colony,water leakage outside house 68 in East Colony near library,Water,2,In progress
+CMP-0094,2026-08-20,Green Park,no water supply since morning in Green Park near bank corner,Water,2,Open
+CMP-0095,2026-09-05,East Colony,overflowing community bin in East Colony near library,Waste,5,In progress
+CMP-0096,2026-09-10,Station Road,water leakage outside house 140 in Station Road near community hall,Water,2,Open
+CMP-0097,2026-08-21,Old Town,no water supply since morning in Old Town near primary school,Water,4,Resolved
+CMP-0098,2026-09-17,North Ward,sparks from electric pole in North Ward near primary school,Electrical,3,In progress
+CMP-0099,2026-09-18,Green Park,large pothole near Green Park crossing near library,Roads,3,In progress
+CMP-0100,2026-09-08,Station Road,no water supply since morning in Station Road near public park gate,Water,4,In progress
+CMP-0101,2026-08-29,Green Park,dark road because lamp is broken in Green Park near metro exit,Streetlights,1,Resolved
+CMP-0102,2026-08-25,Station Road,overflowing community bin in Station Road near library,Waste,5,Open
+CMP-0103,2026-08-25,Old Town,damaged road surface on Old Town main road near primary school,Roads,1,In progress
+CMP-0104,2026-08-17,Station Road,sparks from electric pole in Station Road near community hall,Electrical,4,In progress
+CMP-0105,2026-09-01,Lake View,damaged road surface on Lake View main road near market entrance,Roads,4,Open
+CMP-0106,2026-09-19,Lake View,exposed wire near Lake View market near water tower,Electrical,1,Open
+CMP-0107,2026-08-19,Station Road,large pothole near Station Road crossing near market entrance,Roads,3,Open
+CMP-0108,2026-08-21,Station Road,overflowing community bin in Station Road near community hall,Waste,4,Open
+CMP-0109,2026-09-02,North Ward,exposed wire near North Ward market near primary school,Electrical,4,Open
+CMP-0110,2026-08-31,Old Town,exposed wire near Old Town market near bank corner,Electrical,5,Resolved
+CMP-0111,2026-08-28,Lake View,dark road because lamp is broken in Lake View near temple road,Streetlights,5,Open
+CMP-0112,2026-09-05,Lake View,garbage has not been collected from Lake View near metro exit,Waste,4,Open
+CMP-0113,2026-09-10,East Colony,dark road because lamp is broken in East Colony near library,Streetlights,1,Open
+CMP-0114,2026-09-13,Old Town,exposed wire near Old Town market near temple road,Electrical,4,Open
+CMP-0115,2026-09-03,Station Road,water leakage outside house 20 in Station Road near temple road,Water,4,In progress
+CMP-0116,2026-08-19,East Colony,overflowing community bin in East Colony near clinic,Waste,1,In progress
+CMP-0117,2026-09-14,East Colony,no water supply since morning in East Colony near bank corner,Water,1,Resolved
+CMP-0118,2026-09-18,Station Road,large pothole near Station Road crossing near public park gate,Other,1,Open
+CMP-0119,2026-08-24,Station Road,garbage has not been collected from Station Road near water tower,Waste,2,Open
+CMP-0120,2026-09-04,North Ward,damaged road surface on North Ward main road near library,Roads,5,Open
+CMP-0121,2026-09-19,East Colony,dark road because lamp is broken in East Colony near public park gate,Streetlights,4,Resolved
+CMP-0122,2026-08-31,Lake View,exposed wire near Lake View market near clinic,Electrical,4,In progress
+CMP-0123,2026-09-13,Old Town,streetlight not working near Old Town park near temple road,Streetlights,5,Open
+CMP-0124,2026-08-25,East Colony,overflowing community bin in East Colony near library,Waste,5,Resolved
+CMP-0125,2026-09-05,North Ward,damaged road surface on North Ward main road near public park gate,Roads,3,Open
+CMP-0126,2026-09-11,North Ward,no water supply since morning in North Ward near bank corner,Water,1,Open
+CMP-0127,2026-09-14,Green Park,dark road because lamp is broken in Green Park near market entrance,Streetlights,3,In progress
+CMP-0128,2026-08-27,Lake View,water leakage outside house 202 in Lake View near water tower,Water,3,Resolved
+CMP-0129,2026-09-12,Station Road,overflowing community bin in Station Road near clinic,Waste,1,Open
+CMP-0130,2026-08-27,East Colony,no water supply since morning in East Colony near water tower,Water,4,Open
+CMP-0131,2026-09-03,Green Park,sparks from electric pole in Green Park near library,Electrical,3,Open
+CMP-0132,2026-08-30,Station Road,water leakage outside house 159 in Station Road near water tower,Water,2,In progress
+CMP-0133,2026-09-12,East Colony,dark road because lamp is broken in East Colony near metro exit,Streetlights,1,Open
+CMP-0134,2026-09-11,Green Park,streetlight not working near Green Park park near water tower,Streetlights,3,In progress
+CMP-0135,2026-09-13,Station Road,exposed wire near Station Road market near metro exit,Electrical,5,Open
+CMP-0136,2026-08-22,Green Park,overflowing community bin in Green Park near temple road,Waste,3,Open
+CMP-0137,2026-09-02,North Ward,overflowing community bin in North Ward near metro exit,Waste,1,Resolved
+CMP-0138,2026-09-18,Green Park,streetlight not working near Green Park park near library,Other,3,Open
+CMP-0139,2026-09-06,North Ward,water leakage outside house 18 in North Ward near water tower,Water,2,Open
+CMP-0140,2026-09-11,North Ward,water leakage outside house 71 in North Ward near market entrance,Water,2,Open
+CMP-0141,2026-08-30,Lake View,large pothole near Lake View crossing near community hall,Other,3,Open
+CMP-0142,2026-08-20,North Ward,streetlight not working near North Ward park near primary school,Streetlights,3,Open
+CMP-0143,2026-09-17,Station Road,large pothole near Station Road crossing near playground,Roads,5,Open
+CMP-0144,2026-08-23,Green Park,damaged road surface on Green Park main road near metro exit,Roads,4,In progress
+CMP-0145,2026-09-10,Green Park,streetlight not working near Green Park park near playground,Other,3,In progress
+CMP-0146,2026-08-17,North Ward,sparks from electric pole in North Ward near playground,Electrical,5,In progress
+CMP-0147,2026-08-15,East Colony,large pothole near East Colony crossing near library,Roads,2,Open
+CMP-0148,2026-08-25,Station Road,no water supply since morning in Station Road near temple road,Water,1,Open
+CMP-0149,2026-08-20,East Colony,overflowing community bin in East Colony near market entrance,Other,1,Open
+CMP-0150,2026-08-15,East Colony,damaged road surface on East Colony main road near market entrance,Other,5,In progress
+CMP-0151,2026-08-23,Station Road,damaged road surface on Station Road main road near library,Roads,1,Resolved
+CMP-0152,2026-08-18,Old Town,sparks from electric pole in Old Town near playground,Electrical,4,Open
+CMP-0153,2026-09-05,Old Town,damaged road surface on Old Town main road near public park gate,Roads,5,Resolved
+CMP-0154,2026-09-02,North Ward,exposed wire near North Ward market near library,Other,3,In progress
+CMP-0155,2026-09-10,Old Town,overflowing community bin in Old Town near market entrance,Waste,4,Open
+CMP-0156,2026-08-21,Green Park,large pothole near Green Park crossing near metro exit,Roads,3,Open
+CMP-0157,2026-09-10,North Ward,garbage has not been collected from North Ward near bus stop,Waste,5,Open
+CMP-0158,2026-08-19,Old Town,damaged road surface on Old Town main road near metro exit,Roads,4,Open
+CMP-0159,2026-09-01,Green Park,sparks from electric pole in Green Park near primary school,Electrical,5,Open
+CMP-0160,2026-09-16,Green Park,garbage has not been collected from Green Park near playground,Other,3,Resolved
+CMP-0161,2026-09-19,Old Town,no water supply since morning in Old Town near primary school,Water,4,Open
+CMP-0162,2026-08-28,North Ward,streetlight not working near North Ward park near water tower,Other,1,Open
+CMP-0163,2026-08-25,Green Park,dark road because lamp is broken in Green Park near metro exit,Streetlights,4,Open
+CMP-0164,2026-08-21,Green Park,dark road because lamp is broken in Green Park near playground,Streetlights,3,Open
+CMP-0165,2026-08-17,Lake View,damaged road surface on Lake View main road near metro exit,Other,3,In progress
+CMP-0166,2026-09-12,Old Town,water leakage outside house 20 in Old Town near water tower,Water,2,Resolved
+CMP-0167,2026-09-10,Old Town,garbage has not been collected from Old Town near primary school,Waste,2,In progress
+CMP-0168,2026-08-22,Lake View,damaged road surface on Lake View main road near playground,Roads,5,In progress
+CMP-0169,2026-09-15,Old Town,sparks from electric pole in Old Town near temple road,Electrical,3,Resolved
+CMP-0170,2026-08-31,Green Park,sparks from electric pole in Green Park near primary school,Electrical,1,Open
+CMP-0171,2026-08-18,Green Park,garbage has not been collected from Green Park near playground,Waste,5,In progress
+CMP-0172,2026-08-20,Station Road,large pothole near Station Road crossing near playground,Roads,1,Open
+CMP-0173,2026-09-08,East Colony,garbage has not been collected from East Colony near library,Other,4,Resolved
+CMP-0174,2026-09-01,North Ward,exposed wire near North Ward market near clinic,Electrical,3,In progress
+CMP-0175,2026-09-13,East Colony,damaged road surface on East Colony main road near clinic,Roads,4,Open
+CMP-0176,2026-09-10,Lake View,sparks from electric pole in Lake View near playground,Electrical,3,Resolved
+CMP-0177,2026-08-26,Lake View,streetlight not working near Lake View park near water tower,Streetlights,3,Resolved
+CMP-0178,2026-09-18,Green Park,sparks from electric pole in Green Park near clinic,Electrical,2,Resolved
+CMP-0179,2026-09-10,Station Road,garbage has not been collected from Station Road near market entrance,Other,1,Open
+CMP-0180,2026-09-11,East Colony,exposed wire near East Colony market near clinic,Electrical,2,Open
+CMP-0181,2026-08-27,Lake View,sparks from electric pole in Lake View near metro exit,Electrical,2,Resolved
+CMP-0182,2026-09-04,Old Town,sparks from electric pole in Old Town near water tower,Electrical,4,Resolved
+CMP-0183,2026-08-26,Old Town,no water supply since morning in Old Town near public park gate,Water,4,Resolved
+CMP-0184,2026-09-16,North Ward,water leakage outside house 224 in North Ward near public park gate,Water,3,In progress
+CMP-0185,2026-09-09,East Colony,large pothole near East Colony crossing near primary school,Roads,5,Open
+CMP-0186,2026-08-28,Green Park,streetlight not working near Green Park park near temple road,Streetlights,4,Open
+CMP-0187,2026-08-27,Old Town,exposed wire near Old Town market near primary school,Electrical,3,Resolved
+CMP-0188,2026-08-20,Lake View,garbage has not been collected from Lake View near public park gate,Waste,2,Resolved
+CMP-0189,2026-09-18,Station Road,streetlight not working near Station Road park near primary school,Streetlights,2,In progress
+CMP-0190,2026-09-04,North Ward,sparks from electric pole in North Ward near public park gate,Electrical,1,Open
+CMP-0191,2026-08-16,Station Road,exposed wire near Station Road market near temple road,Other,5,In progress
+CMP-0192,2026-08-28,Old Town,no water supply since morning in Old Town near playground,Water,4,Open
+CMP-0193,2026-08-16,North Ward,damaged road surface on North Ward main road near water tower,Roads,5,In progress
+CMP-0194,2026-08-27,Station Road,streetlight not working near Station Road park near metro exit,Streetlights,1,Open
+CMP-0195,2026-09-13,Old Town,large pothole near Old Town crossing near library,Roads,3,Open
+CMP-0196,2026-09-08,North Ward,overflowing community bin in North Ward near library,Waste,4,Resolved
+CMP-0197,2026-09-15,East Colony,streetlight not working near East Colony park near market entrance,Streetlights,4,Open
+CMP-0198,2026-08-30,Green Park,water leakage outside house 227 in Green Park near bus stop,Water,5,Open
+CMP-0199,2026-09-07,Station Road,sparks from electric pole in Station Road near library,Electrical,1,Resolved
+CMP-0200,2026-08-23,Old Town,garbage has not been collected from Old Town near clinic,Waste,4,Resolved
+CMP-0201,2026-08-19,Old Town,streetlight not working near Old Town park near bank corner,Streetlights,5,Open
+CMP-0202,2026-09-08,East Colony,damaged road surface on East Colony main road near metro exit,Roads,3,Open
+CMP-0203,2026-08-23,East Colony,overflowing community bin in East Colony near temple road,Waste,4,Open
+CMP-0204,2026-09-02,East Colony,damaged road surface on East Colony main road near metro exit,Roads,1,Open
+CMP-0205,2026-09-10,Old Town,streetlight not working near Old Town park near bus stop,Streetlights,4,Open
+CMP-0206,2026-09-17,Lake View,damaged road surface on Lake View main road near metro exit,Roads,4,Resolved
+CMP-0207,2026-08-17,Station Road,garbage has not been collected from Station Road near market entrance,Waste,3,In progress
+CMP-0208,2026-08-19,Green Park,water leakage outside house 189 in Green Park near market entrance,Water,5,Open
+CMP-0209,2026-09-01,East Colony,overflowing community bin in East Colony near playground,Waste,4,Open
+CMP-0210,2026-08-22,Green Park,no water supply since morning in Green Park near bank corner,Water,3,In progress
+CMP-0211,2026-09-09,North Ward,damaged road surface on North Ward main road near public park gate,Roads,2,Resolved
+CMP-0212,2026-09-04,Lake View,exposed wire near Lake View market near market entrance,Electrical,1,Open
+CMP-0213,2026-09-11,Old Town,sparks from electric pole in Old Town near water tower,Electrical,1,Open
+CMP-0214,2026-08-24,East Colony,dark road because lamp is broken in East Colony near metro exit,Streetlights,1,Open
+CMP-0215,2026-08-17,East Colony,garbage has not been collected from East Colony near temple road,Waste,5,In progress
+CMP-0216,2026-09-12,Lake View,no water supply since morning in Lake View near bus stop,Water,3,Open
+CMP-0217,2026-09-01,East Colony,garbage has not been collected from East Colony near water tower,Waste,3,Open
+CMP-0218,2026-08-16,Old Town,exposed wire near Old Town market near public park gate,Electrical,2,In progress
+CMP-0219,2026-08-29,Lake View,exposed wire near Lake View market near playground,Electrical,5,Open
+CMP-0220,2026-09-03,Green Park,large pothole near Green Park crossing near library,Roads,5,Open
+CMP-0221,2026-09-18,Station Road,exposed wire and sparks near Station Road bus stop,Electrical,5,Open
+CMP-0222,2026-09-17,Station Road,exposed wire and sparks near Station Road bus stop,Electrical,5,Open
+CMP-0223,2026-09-16,Station Road,exposed wire and sparks near Station Road bus stop,Electrical,5,Open
+CMP-0224,2026-09-15,Station Road,exposed wire and sparks near Station Road bus stop,Electrical,5,Open
+CMP-0225,2026-09-14,Station Road,exposed wire and sparks near Station Road bus stop,Electrical,5,Open
+CMP-0226,2026-09-13,Station Road,exposed wire and sparks near Station Road bus stop,Electrical,5,Open
+CMP-0227,2026-09-12,Station Road,exposed wire and sparks near Station Road bus stop,Electrical,5,Open
+CMP-0228,2026-09-11,Station Road,exposed wire and sparks near Station Road bus stop,Electrical,5,Open
