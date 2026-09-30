@@ -69,3 +69,4 @@ Python, Pandas, Streamlit, Plotly, scikit-learn, CSV data pipelines.
 - Add geographic clustering where source coordinates are available.
 - Train and evaluate a text classifier on a labeled narrative dataset.
 - Add automated tests, an API, and deployment.
+- This project is actively being developed as a civic-tech hackathon prototype.
